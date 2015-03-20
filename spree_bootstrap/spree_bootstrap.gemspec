@@ -20,6 +20,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'bootstrap-sass', '~> 3.2.0'
   s.add_runtime_dependency 'bootstrap-kaminari-views', '~> 0.0.3'
 
-  s.add_runtime_dependency 'spree_core', '~> 2.4.0.rc3'
-  s.add_runtime_dependency 'spree_frontend', '~> 2.4.0.rc3'
+  s.add_runtime_dependency 'spree_core', '~> 3.1.0.beta'
+  s.add_runtime_dependency 'spree_frontend', '~> 3.1.0.beta'
 end
